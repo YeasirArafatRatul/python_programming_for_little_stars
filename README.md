@@ -8,6 +8,7 @@
 *প্রকাশনী - অদম্য প্রকাশ*
 
 <img  align="center" alt="Python Programming Language - 3 Image" src="Pictures_Of_The_Book/python_for_little_stars.png" width="200" height="260"/>
+
 [Buy Now](https://www.rokomari.com/book/249796/python-programming-for-little-stars)
 
 **CHAPTERS**
