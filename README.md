@@ -1,65 +1,21 @@
 
-# Bangla Python E Book
-
-**HUNT PYTHON - 180 Pages**
-*~Yeasir Arafat Ratul* 
+**Python Programming For Little Stars**
+*~Yeasir Arafat Ratul*
+*Publisher - Odommo Prokash*
  
 
-[Cover](https://github.com/YeasirArafatRatul/Python-E-Book/blob/master/main%20_cover.jpg)
+<img  align="center" alt="Python Programming Language - 3 Image" src="Pictures_Of_The_Book/python_for_little_stars.png" width="200" height="260"/>
 
 **CHAPTERS**
 
-1. Python Basics
-2. Data Types
-	* General Data Types
-		* Integral (Int,Bool)
-		* Floating (Float)
-		* Strings (str)
-	* Collection Type
-		* Sequence (list,tuple)
-		* Set (set, frozen set)
-		* Mapping (dict, counter)
-3. Control Structures
-4. Python Comprehensions
-	* List Comprehension
-	* Dictionary Comprehension
-	* Set Comprehension
-
-5. Functional Programming
-	* Function
-	* Arguments of function
-		* Default
-		* Required
-		* Keyword
-		* Variable Length
-	* Recursion
-	* Anonymous/Lambda function
-	* Constructors
-	* Generators
-	* Some Built-in functions
-
-6. Exceptions
-7. Object Oriented Programming
-    * Inheritance 
-    * Polymorphism
-    * Encapsulation
-    * Abstraction
-    * MetaClass
-    * super()
-8. HTTP - requests
-	* GET
-	* POST
-	* Session & Cookies
-
-9. Files
-10. Decorators
-    * Decorators
-    * Multiple Decorators
-    * Decorators With Argument
-
-11. Networking - Socket
-	* Making Server & Client
-	* Making a ChatBox
-
-12. Regular Expression
-13. Asynchronous Programming - async await
+1. প্রোগ্রামিং পরিচিতি
+2. চলো অজগরকে বাসায় আনি
+3. পাইথনের অ আ ক খ
+4. পাইথন অপারেটরস
+5. ডেটা টাইপ
+6. ডেটা স্ট্রাকচার
+7. কন্ডিশন
+8. লুপ
+9. ফাংশন
+10. ক্লাস 
+11. ওয়ার্ড গেম Guess The Word
